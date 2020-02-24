@@ -1,0 +1,2 @@
+Git is the version control software and application that allows collaboration. Github is the web service, where you can create repositories and in each one yo can create
+commit new files, tracking your history and version of your file.
